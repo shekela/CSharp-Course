@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/course.projects.v9.bin
+/.vs/Course/CopilotIndices/17.13.444.19527
+/.vs/Course/DesignTimeBuild
+/.vs/Course/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/Course/v17
+/Arrays/obj
